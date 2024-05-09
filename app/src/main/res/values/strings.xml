@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuAndAlertLayout</string>
+    <string name="menu">Menu</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="faq_s">FAQ\'s</string>
+    <string name="share">Share</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="dialog_title">Alert Title</string>
+    <string name="dialog_message">Alert Message</string>
+    <string name="dialog_positive">YUP 😃</string>
+    <string name="dialog_negative">NOPE 😢</string>
+    <string name="dialog_neutral">Shh 🤫</string>
+    <string name="basic">Basic</string>
+    <string name="title_with_text">Title with text</string>
+    <string name="error_message">Error Msg</string>
+    <string name="warning_message">Warning Msg</string>
+    <string name="success_msg">Success Msg</string>
+    <string name="msg_with_icon">Msg with icon</string>
+</resources>
